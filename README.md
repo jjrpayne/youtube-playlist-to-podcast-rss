@@ -2,7 +2,7 @@
 This is a Python script that converts any YouTube playlist into an audio-only podcast RSS feed. This RSS feed can then be imported into any podcast app, allowing you to listen to the YouTube audio as a podcast.
 
 ## Requirements
-This script requires Python 3 as well as the follwoing libraries:
+This script requires Python 3 as well as the following libraries:
 
 - [feedgen](https://pypi.org/project/feedgen/)
 - [isodate](https://pypi.org/project/isodate/)
