@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# swap files
+*.swp
+
+# generated xml files
+*.xml
